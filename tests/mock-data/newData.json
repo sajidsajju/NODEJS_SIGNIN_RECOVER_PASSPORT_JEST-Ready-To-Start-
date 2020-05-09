@@ -1,0 +1,7 @@
+{
+    "name": "johncena",
+    "email": "john@gmail.com",
+    "password": "johncena",
+    "confirm_password": "johncena",
+    "type": "user"
+}
